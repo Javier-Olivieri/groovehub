@@ -1,0 +1,13 @@
+img{
+    height: 40px;
+    width: auto;
+}
+.divCarrito{
+    display: flex;
+    cursor: pointer;
+}
+.divCarrito span{
+    color: rgba(255, 255, 255, 0.471);
+    font-family: 'Sometype Mono', monospace;
+    font-weight: 700;
+}

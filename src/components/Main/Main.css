@@ -1,0 +1,23 @@
+@font-face {
+    font-family: BTSuper;
+    src: url(../../assets/BTSuperEighty.otf);
+}
+
+.banner{
+    width: 100%;
+    height: auto;
+}
+.banner_title{
+    display: flex;
+    justify-content: center;
+    margin: 100px 0;
+}
+h1{
+    color: white;
+    font-family: 'BTSuper';
+    font-weight: 400;
+    font-size: 200px;
+    line-height: 180px;
+    letter-spacing: 10px;
+    cursor: default;
+}
